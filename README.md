@@ -48,7 +48,7 @@
 
 ###
 
-<h3 align="left">The stats</h3>
+<h2 align="left">The stats</h2>
 
 ###
 
